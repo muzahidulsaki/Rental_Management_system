@@ -28,4 +28,38 @@ A Rental Management System is designed for businesses that rent out items (e.g.,
 ![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/dashboard1.jpg?raw=true)
 
 ## Signup/Signin
-[![Watch the video](https://github.com/muzahidulsaki/Rental_Management_system/blob/93fa4d27706132bcd9cde1fcd945a3280314d0f9/images/img/signuologin.mp4)
+![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/signup.jpg?raw=true)
+![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/d58608f1ac912ae8461d8dd2ddf5fe84d011cdac/images/img/signin.jpg)
+
+## Services
+![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/services.jpg?raw=true)
+
+## Car Section
+![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/car.jpg?raw=true)
+
+## Car Preview
+![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/previewcar.jpg?raw=true)
+
+## Invoice
+![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/rentinvoice.jpg?raw=true)
+
+## Home Section
+![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/home.jpg?raw=true)
+
+## Laptop Section
+![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/laptop.jpg?raw=true)
+
+## Owner Dashboard
+![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/ownerDashboard.jpg?raw=true)
+
+## Admin Dashboard
+![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/admindashboard1.jpg?raw=true)
+
+## Admin Dashboard - update/delete user
+![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/admindashboard2.jpg?raw=true)
+
+## Admin Dashboard - update/delete product
+![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/admindashboard3.jpg?raw=true)
+
+## About Us
+![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/about%20us.jpg?raw=true)
