@@ -24,6 +24,15 @@ A Rental Management System is designed for businesses that rent out items (e.g.,
 - Backend: PHP.
 - Database: MySQL.
 
+#### Contribution
+<div align="center">
+  <ul style="list-style-type: none; padding: 0;">
+    <li><a href="https://muzahidulsaki.social/" style="text-decoration: none;">Muzahidul Islam Saki</a></li>
+    <li><a href="https://github.com/mashudh-ahmed" style="text-decoration: none;">Mashudh Ahmed</a></li>
+    <li><a href="https://github.com/TanvirAkib1" style="text-decoration: none;">Tanvir Islam Akib</a></li>
+  </ul>
+</div>
+
 ## Dashboard
 ![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/dashboard1.jpg?raw=true)
 
