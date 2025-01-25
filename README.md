@@ -1,6 +1,6 @@
 # Rental_Management_system
 
-C# application with using WinForms and SQL Server. Admin/User authorization and registration.
+A Rental Management System is designed for businesses that rent out items (e.g., home, vehicles, properties, equipment, books, etc.). It allows multiple users to manage rental items, track customer transactions, and generate invoices or reports.
 
 #### `Short description`
 > Desktop CRUD Application with GUI and admin/normal user authorization and registration.
