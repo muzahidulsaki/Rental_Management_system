@@ -2,19 +2,28 @@
 
 A Rental Management System is designed for businesses that rent out items (e.g., home, vehicles, properties, equipment, books, etc.). It allows multiple users to manage rental items, track customer transactions, and generate invoices or reports.
 
-#### `Short description`
-> Desktop CRUD Application with GUI and admin/normal user authorization and registration.
-- Add Product
-- view list of users in database
-- remove records
-- update records
-- search whole database by specified field
+#### `Features`
+> Admin.
+- Manage Rental Owners and Customers account.
+- Oversee rental inventory and customer data.
+> Owner
+- Add, update, or remove rental items.
+- Track ongoing rentals with customer details.
+- Monitor ongoing and overdue rentals.
 
-#### `Technologies` 
+> Rentar
+- Browse detailed item pages with images, descriptions, and rental terms.
+- Search and filter rental items based on category, price etc.
+- Request rentals and manage their accounts.
+- View rental history.
+- Receive updates on rental request status (approved/rejected).
 ---
-The application was created in C# Win Forms and SQL, using Visual Studio 2022
+#### `Technology Stack` 
 
-- Login form
+- Frontend: HTML, CSS, JavaScript.
+- Backend: PHP.
+- Database: MySQL.
+
 
 ![](https://imgurl.pl/img2/login_662e62399e31d.png)
 
