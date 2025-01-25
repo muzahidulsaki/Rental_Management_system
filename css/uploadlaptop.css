@@ -1,0 +1,78 @@
+/* Center the main container */
+.main {
+    display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    background: linear-gradient(to right, #fffbfb, #fff4f4);
+  }
+  
+  .main h3 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Style the form */
+  form {
+    background-color: #f0ebeb;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px #fae3e3cb;
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  /* Style labels */
+  form label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+    text-align: left;
+  }
+  
+  /* Style inputs */
+  form input[type="text"],
+  form select,
+  form input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  /* Style the submit button */
+  form button {
+    background-color: #da5e16;
+    color: #ffffff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+  }
+  
+  form button:hover {
+    background-color: #a7522d;
+  }
+  
+  /* Add some hover effects */
+  form input:focus,
+  form select:focus {
+    border-color: #94a8ba;
+    outline: none;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    form {
+        padding: 20px;
+    }
+  }

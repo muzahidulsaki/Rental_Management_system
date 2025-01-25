@@ -1,0 +1,207 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: #000000;
+    color: white;
+    padding: 30px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.container {
+    padding: 20px;
+}
+
+.container h2{
+    text-align: center;
+    
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+table th {
+    background-color: #000000;
+    color: white;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.action-buttons button {
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-edit {
+    padding: 8px 15px;
+        font-size: 14px;
+        font-weight: bold;
+        border: none;
+        /* border-radius: 5px; */
+        cursor: pointer; /* Pointer cursor */
+        transition: transform 0.2s ease, background-color 0.3s ease; /* Smooth transitions */
+        background-color: #41c745;
+}
+.btn-edit:hover {
+    transform: scale(0.95);
+    background-color: #078320;
+}
+
+.btn-delete {
+    padding: 8px 15px;
+        font-size: 14px;
+        font-weight: bold;
+        border: none;
+        /* border-radius: 5px; */
+        cursor: pointer; /* Pointer cursor */
+        transition: transform 0.2s ease, background-color 0.3s ease; /* Smooth transitions */
+        background-color: #ff0000;
+        color: white;
+}
+.btn-delete:hover {
+    transform: scale(0.95);
+    background-color: #ab0202;
+    
+}
+
+.container2 {
+    padding: 20px;
+}
+.container2 h2{
+    text-align: center;
+}
+
+.product-image {
+   
+    width: 100px;
+    height: 50px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+
+/* Modal Overlay */
+.modal {
+    display: none; /* Initially hidden */
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+}
+
+/* Modal Content */
+.modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Close Button */
+.close-btn {
+    font-size: 20px;
+    font-weight: bold;
+    color: #aaa;
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    cursor: pointer;
+}
+
+.close-btn:hover {
+    color: black;
+}
+
+/* Form Fields Styling */
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group input, .form-group select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-actions {
+    text-align: right;
+}
+
+.form-actions button {
+    padding: 10px 20px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.btn-update {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+.btn-cancel {
+    background-color: #f44336; /* Red */
+    color: white;
+}
+
+.btn-update:hover {
+    background-color: #45a049;
+}
+
+.btn-cancel:hover {
+    background-color: #e53935;
+}
+
+@media (max-width: 768px) {
+    table, table th, table td {
+        font-size: 14px;
+    }
+
+    header h1 {
+        font-size: 18px;
+    }
+}
