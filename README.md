@@ -1,4 +1,4 @@
-# Rental_Management_system
+# "Simplify Rentals, Amplify Living."
 
 A Rental Management System is designed for businesses that rent out items (e.g., home, vehicles, properties, equipment, books, etc.). It allows multiple users to manage rental items, track customer transactions, and generate invoices or reports.
 
