@@ -28,8 +28,6 @@ A Rental Management System is designed for businesses that rent out items (e.g.,
 <div align="center">
   <ul style="list-style-type: none; padding: 0;">
     <li><a href="https://muzahidulsaki.social/" style="text-decoration: none;">Muzahidul Islam Saki</a></li>
-    <li><a href="https://github.com/mashudh-ahmed" style="text-decoration: none;">Mashudh Ahmed</a></li>
-    <li><a href="https://github.com/TanvirAkib1" style="text-decoration: none;">Tanvir Islam Akib</a></li>
   </ul>
 </div>
 
