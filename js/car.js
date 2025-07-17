@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded",  () {
+document.addEventListener("DOMContentLoaded",  function() {
   const preview = document.getElementById("carPreview");
   const previewImage = document.getElementById("previewImage");
   const previewName = document.getElementById("previewName");
