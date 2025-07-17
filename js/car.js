@@ -10,7 +10,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const carGrid = document.querySelector(".car-grid");
 
   // Show preview
-  document.querySelectorAll(".car-card").forEach(card => {
+  document.querySelectorAll(".car-card").forEach(card => 
+    {
       card.addEventListener("click", function () {
           const imageSrc = this.querySelector("img").src;
           const name = this.querySelector("h3").innerText;
